@@ -1,2 +1,2 @@
 # instagram
-Projeto landing page do instagram
+Projeto home page do instagram
