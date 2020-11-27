@@ -1,2 +1,2 @@
 # Instagram
-Projeto home page do instagram
+Projeto recriando a página inicial do Instagram  
